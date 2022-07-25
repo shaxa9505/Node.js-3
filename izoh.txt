@@ -1,0 +1,2 @@
+1-Ajax haqida tushuncha
+2-Api so'rovlar GET POST
